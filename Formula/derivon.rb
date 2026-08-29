@@ -1,8 +1,8 @@
 class Derivon < Formula
   desc "Stateless CLI for weighted directed B-hypergraphs"
   homepage "https://docs.derivon.net/cli/"
-  url "https://static.crates.io/crates/derivon-cli/derivon-cli-0.1.0.crate"
-  sha256 "e1e9ac4db1be00cd0c7c06fe7570156553ea8098c916e30641c7036425c57c13"
+  url "https://static.crates.io/crates/derivon-cli/derivon-cli-0.1.1.crate"
+  sha256 "7fd590ac0653a8d2cd217e375c1427bc223c4fa8f0ace84612f2784f7f982555"
   license "MIT"
 
   depends_on "rust" => :build
